@@ -1,0 +1,11 @@
+/*
+*	Creating .git folder (keeps track of the changes we make)
+*     inside of our web site directory
+*     
+*     git init
+*     
+*     Now we need to point the directory to our GitHub repository
+*     git remote add origin https://github.com/rcmercado/Parkour.git
+*
+*     
+*/
