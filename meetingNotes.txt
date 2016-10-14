@@ -7,5 +7,6 @@
 *     Now we need to point the directory to our GitHub repository
 *     git remote add origin https://github.com/rcmercado/Parkour.git
 *
-*     
+*     Git bash is for telling the magic .git folder to sync with William and Github
+*     Learning how to show instructor of any changes Students learning.
 */
