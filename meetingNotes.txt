@@ -9,4 +9,9 @@
 *
 *     Git bash is for telling the magic .git folder to sync with William and Github
 *     Learning how to show instructor of any changes Students learning.
+git add meetingNotes.txt
+git commit -m "we changed the file"
+* git push origin master (sends the changes to github website for instructor to see and modify)
+now william can git pull and see what i've changed.
+
 */
